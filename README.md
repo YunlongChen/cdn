@@ -1,2 +1,2 @@
 # cdn
-github+jsDelivr配置一个cdn
+项目静态资源
